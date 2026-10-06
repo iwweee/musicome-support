@@ -1,33 +1,29 @@
 # Privacy Policy for Musicome
 
-**Last Updated:** October 2026
+Last updated: 2026
 
-Musicome ("we", "our", or "us") is dedicated to protecting your personal privacy. This Privacy Policy explains our practices regarding information collection, storage, and usage when you use our mobile application **Musicome: Offline Music Player**.
+## 1. Data Controller
+Musicome is developed and operated by independent developer Nico. For privacy inquiries or requests, contact: codegem@hotmail.com
 
----
+## 2. Data We Collect
+• No personal identifiers: We do not collect, store, or upload your name, email address, physical location, or any personally identifiable information (PII).
+• Audio files: Music you import is stored exclusively on your local device and is never uploaded to any external server.
+• Local preferences: Playlists, play history, EQ equalizer settings, and theme preferences are kept strictly on your local device.
+• Purchase data: In-app subscriptions and lifetime purchases are processed entirely by Apple StoreKit. We have no access to your credit card or financial payment details.
 
-### 1. Zero Personal Data Collection
-Musicome is built from the ground up as an offline-first, privacy-focused audio player:
-- We **do not** collect, store, or share any personal identifying information (such as your name, email, phone number, or physical location).
-- We **do not** track your listening history, personal preferences, or app usage across other apps or websites.
-- We **do not** sell, rent, or monetize your data with third-party advertisers.
+## 3. Online Metadata Retrieval
+To enhance your listening experience, Musicome may query public online music databases for album artwork and lyrics using track titles and artist names:
+• No Personal Data Shared: Requests only transmit public track titles and artist names. Your actual audio files are never uploaded, and no personally identifiable information, unique device identifiers (IDFA), or location data is ever collected, transmitted, or linked.
+• Local Caching: Retrieved artwork and lyrics are cached strictly on your local device solely for playback display and are never used for profiling, advertising, or cross-app tracking.
 
-### 2. Audio Files & Media Library
-- **Strictly Local**: Any audio files you import from the iOS Files app, iCloud Drive, or your device library are stored and processed strictly on your local device.
-- **No Cloud Upload**: We never upload, transfer, or analyze the contents of your music files on any external servers.
+## 4. Your Rights (GDPR & International)
+If you reside in the EU/EEA, you have the right to access, correct, delete, restrict processing of, and port your data. Because Musicome does not collect identifiable personal data, these rights are typically not applicable in practice. You may contact codegem@hotmail.com for any data-related requests.
 
-### 3. Metadata & Online Features (Lyrics & Artwork)
-- When your device is connected to the internet, Musicome may query public music metadata APIs to fetch album cover art or synchronized lyrics for your tracks.
-- These queries contain only basic audio tag information (e.g. Song Title and Artist Name) necessary to retrieve the requested metadata. No device identifiers or user profiles are transmitted.
+## 5. Children's Privacy & Data Protection
+Musicome is a general audience music player and is not specifically directed to children under the age of 13:
+• Zero Remote Data Collection: The app operates entirely locally without user registration, accounts, or cloud databases. Audio files and preferences remain strictly on your device. We do not knowingly collect personal information from children under 13.
+• Local Data Erasure: All local playback history, settings, and cached data can be permanently erased at any time simply by uninstalling the app from the device.
+• Contact & Inquiries: If a parent or guardian contacts us via email regarding their child, you may request the permanent deletion of correspondence records at any time by contacting codegem@hotmail.com.
 
-### 4. In-App Purchases & Subscriptions
-- All in-app purchase transactions (Musicome Pro subscriptions and lifetime access) are processed directly and securely by Apple via StoreKit.
-- We do not process, receive, or store any of your credit card numbers, billing addresses, or banking details.
-
-### 5. Children's Privacy
-Musicome does not knowingly collect any personally identifiable information from children under the age of 13.
-
-### 6. Contact Us
-If you have any questions or feedback regarding this Privacy Policy, please contact us:
-- **Email**: codegem@hotmail.com
-- **GitHub Issues**: https://github.com/iwweee/musicome-support/issues
+## 6. Policy Updates
+We will notify you of any significant changes to this policy through future app version updates.
